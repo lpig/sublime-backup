@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Codecs33",
+		"GitGutter",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"WakaTime"
+	]
+}
